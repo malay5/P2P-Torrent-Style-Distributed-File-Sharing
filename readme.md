@@ -1,4 +1,3 @@
-Here is the **professional README**, now updated with your name and LinkedIn profile:
 
 ---
 
@@ -184,12 +183,3 @@ Results confirm:
 🔗 **LinkedIn:** [https://www.linkedin.com/in/malay-damani9126hacks/](https://www.linkedin.com/in/malay-damani9126hacks/)
 
 ---
-
-If you want, I can also write:
-
-📌 A short résumé-optimized project summary
-📌 A detailed case study / design doc
-📌 A system design interview explanation version
-📌 A GitHub badge-enhanced version
-
-Just tell me!
