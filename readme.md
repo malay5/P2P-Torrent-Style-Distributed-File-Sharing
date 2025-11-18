@@ -91,7 +91,7 @@ This ensures scalability under heavy workloads and minimizes transfer latency.
 ## 🖼️ System Architecture
 
 <p align="center">
-  <img src="./media/diagrams_page-0001.jpg" width="480" alt="Architecture Diagram">
+  <img src="./p2pimage.png" width="480" alt="Architecture Diagram">
 </p>
 
 ---
